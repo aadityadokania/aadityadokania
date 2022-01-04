@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ReactJs
 - 🤔 I’m looking for help with the whole web development ecosystem
 - 💬 Ask me about how to start Web Dev, Android Dev & Non-Fiction Books
-- 📫 How to reach me: Twitter - @dokaniaaaditya
+- 📫 How to reach me: [Twitter - @dokaniaaaditya](https://twitter.com/DokaniaAaditya)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
