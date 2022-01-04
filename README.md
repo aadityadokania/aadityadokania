@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7959
-Fork on GitHub
-1636
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Aaditya Dokania</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -25,7 +10,7 @@ preview
 
 - 🤝 I’m looking for help with **Web Dev Ecosystem**
 
-- 👨‍💻 All of my projects are available at [https://www.aadityadokania.com](https://www.aadityadokania.com)
+- 👨‍💻 All of my projects are available at [Aaditya Dokania](https://www.aadityadokania.com)
 
 - 💬 Ask me about **Android Development, Web Development, Non-Fiction Books📚**
 
