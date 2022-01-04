@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Aaditya Dokania](https://www.aadityadokania.com)
 
-- 💬 Ask me about **Android Development, Web Development, Non-Fiction Books📚**
+- 💬 Ask me about **Web Development, Non-Fiction Books📚**
 
 - 📫 How to reach me **dokaniadev@gmail.com**
 
