@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on making small web-based projects
 - 🌱 I’m currently learning ReactJs
 - 🤔 I’m looking for help with the whole web development ecosystem
-- 💬 Ask me about how to start Web Dev, Android Dev & Non-Books
+- 💬 Ask me about how to start Web Dev, Android Dev & Non-Fiction Books
 - 📫 How to reach me: Twitter - @dokaniaaaditya
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
