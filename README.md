@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web Development, Non-Fiction Books📚**
 
-- 📫 How to reach me **dokaniadev@gmail.com**
+- 📫 How to reach me **aadityadokania1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
