@@ -6,13 +6,7 @@
 
 - 🔭 I’m currently working on **Small Web Based Projects**
 
-- 🌱 I’m currently learning **ReactJs**
-
-- 🤝 I’m looking for help with **Web Dev Ecosystem**
-
 - 👨‍💻 All of my projects are available at [Aaditya Dokania](https://www.aadityadokania.com)
-
-- 💬 Ask me about **Web Development, Non-Fiction Books📚**
 
 - 📫 How to reach me **aadityadokania1@gmail.com**
 
