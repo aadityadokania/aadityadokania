@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/dokaniaaaditya" target="blank"><img src="https://img.shields.io/twitter/follow/dokaniaaaditya?logo=twitter&style=for-the-badge" alt="dokaniaaaditya" /></a> </p>
 
-- 🔭 I’m currently working on **Small Web Based Projects**
+- 🔭 I’m currently working on **Web Based Projects**
 
 - 👨‍💻 All of my projects are available at [Aaditya Dokania](https://www.aadityadokania.com)
 
